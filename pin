@@ -1,0 +1,7 @@
+import random
+
+# Generate random 6-digit pin
+pin = random.randint(100000, 999999)
+
+# Print the pin
+print(pin)
